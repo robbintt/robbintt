@@ -1,4 +1,6 @@
-## Hi there 👋
+# whoami
+
+I'm a staff software engineer at Pinterest with a focus on cluster management and continuous delivery.
 
 <!--
 **robbintt/robbintt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
